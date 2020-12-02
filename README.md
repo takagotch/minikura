@@ -1,6 +1,9 @@
 ###### minikura
 ---
-
+https://minikura.com/
+2 account
+linked facebook account
+linked google account
 
 
 ###### summary pocket
